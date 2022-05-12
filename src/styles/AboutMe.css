@@ -1,0 +1,27 @@
+.profile {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.profile img{
+    width: 30%;
+    padding: 15px;
+    min-width: 380px;
+    text-decoration: none;
+}
+
+.container_info {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+}
+
+.text_container {
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

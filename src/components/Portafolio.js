@@ -4,7 +4,7 @@ import Quotesapp from "../media/quotesapp.png"
 import Crudglobal from "../media/crudglobal.png"
 import Todoapp from "../media/todoapp.png"
 import Countriesapp from "../media/countriesapp.png"
-import Weatherapp from "../media/weather_app"
+import Weatherapp from "../media/weather_app.png"
 import "../styles/Portafolio.css"
 
 export const Portafolio = () => {

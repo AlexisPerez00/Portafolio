@@ -4,6 +4,7 @@ import Quotesapp from "../media/quotesapp.png"
 import Crudglobal from "../media/crudglobal.png"
 import Todoapp from "../media/todoapp.png"
 import Countriesapp from "../media/countriesapp.png"
+import Weatherapp from "../media/weather_app"
 import "../styles/Portafolio.css"
 
 export const Portafolio = () => {
@@ -17,8 +18,8 @@ export const Portafolio = () => {
         href: "https://quote-box.vercel.app/"
     }, {
         name: "Weather App",
-        image: "../media/",
-        href: ""
+        image: Weatherapp,
+        href: "https://weather-app-ten-blue.vercel.app/"
     }, {
         name: "CRUD Global",
         image: Crudglobal,
